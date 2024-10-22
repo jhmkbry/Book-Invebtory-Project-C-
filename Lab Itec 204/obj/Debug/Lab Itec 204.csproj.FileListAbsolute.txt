@@ -1,0 +1,6 @@
+C:\Users\LENOVO T470\Documents\SharpDevelop Projects\Lab Itec 204\Lab Itec 204\bin\Debug\Lab Itec 204.exe.config
+C:\Users\LENOVO T470\Documents\SharpDevelop Projects\Lab Itec 204\Lab Itec 204\bin\Debug\Lab Itec 204.exe
+C:\Users\LENOVO T470\Documents\SharpDevelop Projects\Lab Itec 204\Lab Itec 204\bin\Debug\Lab Itec 204.pdb
+C:\Users\LENOVO T470\Documents\SharpDevelop Projects\Lab Itec 204\Lab Itec 204\obj\Debug\Lab Itec 204.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO T470\Documents\SharpDevelop Projects\Lab Itec 204\Lab Itec 204\obj\Debug\Lab Itec 204.exe
+C:\Users\LENOVO T470\Documents\SharpDevelop Projects\Lab Itec 204\Lab Itec 204\obj\Debug\Lab Itec 204.pdb
