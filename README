@@ -1,0 +1,60 @@
+Book Management Console Application
+This is a simple C# console application for managing books. It allows users to:
+Add new books by entering their title and author.
+Display all entered books.
+Features
+Add Book: Users can add up to 1000 books by providing their title and author.
+Display Books: All added books are displayed, showing their title and author.
+Temporary Data Storage: Book data is stored temporarily while the program runs. Once the program is closed, the data is lost.
+Menu Options
+The program provides the following menu:
+Menu 
+1. Add a new Book 
+2. Display all Books 
+3. Exit
+
+How to Use?
+
+1. Clone the repository:
+Copy code
+git clone https://github.com/jhmkbry/Book-Inventory-.NET-Csharp
+
+2. Build and run the program:
+Open the solution in your preferred C# IDE (e.g., Visual Studio).
+Compile and run the program.
+
+Interaction:
+Enter 1 to add a book by providing its title and author.
+Enter 2 to display all the books currently added.
+Enter 3 to exit the program.
+Example
+Sample program interaction:
+
+Menu 
+1. Add a new Book 
+2. Display all Books 
+3. Exit
+
+Enter an option: 1
+Enter Data for Book 1
+Enter Book Title: The Great Gatsby
+Enter Book Author: F. Scott Fitzgerald
+Book added successfully!
+
+Menu 
+1. Add a new Book 
+2. Display all Books 
+3. Exit
+
+Enter an option: 2
+1. Title: The Great Gatsby, Author: F. Scott Fitzgerald
+
+Requirements
+.NET Core 3.1 or later (or any compatible C# runtime)
+
+Contributions
+Feel free to fork this repository, create a new branch, and submit a pull request if you would like to contribute.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
